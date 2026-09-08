@@ -91,3 +91,18 @@ Employee_Payroll_System/
 └── reports/
     ├── __init__.py
     └── reports.py
+    
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Employee Details
+![Employee Details](screenshots/employee-details.png)
+
+### Attendance Management
+![Attendance Management](screenshots/attendance-management.png)
+
+### Payroll Management
+![Payroll Management](screenshots/payroll-management.png)
+
