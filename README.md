@@ -91,7 +91,7 @@ Employee_Payroll_System/
 └── reports/
     ├── __init__.py
     └── reports.py
-    
+```
 ## Screenshots
 
 ### Main Menu
